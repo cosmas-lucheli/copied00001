@@ -1,0 +1,15 @@
+input{
+    color: #10e061;
+}
+label{
+    color: #0b3ee3;
+    width: 20px;
+    text-align: center;
+    font-family: "Bitstream Charter";
+    text-decoration: indigo;
+}
+body{
+    background-color: black;
+}
+
+

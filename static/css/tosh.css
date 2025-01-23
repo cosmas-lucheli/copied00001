@@ -1,0 +1,23 @@
+h2{
+    color: red;
+    text-align: center;
+    font-family: "Courier 10 Pitch";
+    font-size: 30px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: solid 1px blue;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    color: #cc0051;
+}
+td{
+    color: olivedrab;
+    font-family: MathJax_Vector-Bold;
+}
+

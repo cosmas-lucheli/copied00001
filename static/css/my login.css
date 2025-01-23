@@ -1,0 +1,49 @@
+body{
+    font-family: "Noto Sans Siddham";
+    background-color: f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+.container{
+    width: 400px;
+    background: #dd0909;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px rgba(0,0,0,1);
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2731e0;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    color: grey;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border: 1px solid blue;
+    border-radius: 4px;
+    font-size: 16px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: mintcream;
+    border: none;
+    border-radius: 40px;
+    color: #dd0909;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: yellowgreen;
+}
+
